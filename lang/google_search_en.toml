@@ -1,0 +1,2 @@
+module_google_search = "Google Search"
+md_google_search = "Optional authorised web-search provider support."
